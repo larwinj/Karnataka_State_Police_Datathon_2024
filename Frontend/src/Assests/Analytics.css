@@ -1,0 +1,16 @@
+.name-h3-ln{
+    display: flex;
+    margin-top: -12px;
+}
+.lainput {
+    width: 40%;
+    margin-right: 10px;
+    margin-bottom: 5%; 
+    border: 1px solid black; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+    background-color:white;
+  }
+/* .title-pend-ln{
+    margin-top: 20px;
+} */
